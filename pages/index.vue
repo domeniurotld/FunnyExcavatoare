@@ -86,7 +86,7 @@
                 <p class="simple-text" style="margin-left: 1rem;">
                     • Adresă: <b>Ocna Sugatag, Strada Lunga Nr.28, Maramures</b>
                     <br>• Telefon: <a class="simple-text" href="tel:+40743369495" style="text-decoration: none;"><b>+40 743 369 495</b></a>
-                    <br>• Email: <b>[]</b>
+                    <br>• Email: <b>funnyjumpkids@gmail.com</b>
                     <br>• Website: <b>funny-excavatoare.ro</b>
                 </p>
                 <p class="simple-text">

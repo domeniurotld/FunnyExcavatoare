@@ -17,7 +17,7 @@
           </div>
           <div class="contact-info">
             <Icon name="material-symbols-light:mail-rounded" size="1.2rem" class="contact-icon" />
-            <span class="footer-text">[]</span>
+            <span class="footer-text">funnyjumpkids@gmail.com</span>
           </div>
         </div>
 
